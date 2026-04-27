@@ -49,4 +49,4 @@ A collection of reusable Unity utilities I've built and shared:
 
 ---
 
-*Currently leading Unity engineering on exciting new projects. Always happy to talk game dev!*
+*Currently leading Unity engineering on Crayon Club. Always happy to talk game dev!*
