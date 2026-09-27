@@ -1,6 +1,6 @@
 # Hi there, I'm Tayfun 👋
 
-I'm a **Lead Unity Engineer** passionate about building engaging mobile game experiences. I specialize in game architecture, performance optimization, and leading engineering teams to ship polished products.
+I'm a **Senior Game Developer** passionate about building engaging mobile game experiences. I specialize in game architecture, performance optimization, and leading engineering teams to ship polished products.
 
 ---
 
@@ -43,10 +43,5 @@ A collection of reusable Unity utilities I've built and shared:
 
 ---
 
-## 📊 GitHub Stats
 
-![taycpu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taycpu&show_icons=true&theme=dark&hide_border=true)
-
----
-
-*Currently leading Unity engineering on Crayon Club. Always happy to talk game dev!*
+*Always happy to talk game dev!*
